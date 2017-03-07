@@ -1,0 +1,17 @@
+logo font-pacifico
+menu/title font-Bebas
+p font HelveticaNeue
+----------------------------
+logo color-474747
+top menu color-dcdcdc
+menu color-b7b7b7
+
+-----------------------------
+this month background-404040
+this month-909090
+featured-ffffff
+---------------------------------
+copy right  
+back-f5f5f5
+text-9b9b9b
+title line-474747
